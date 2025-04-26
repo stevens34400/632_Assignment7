@@ -54,7 +54,3 @@ This project provides a simple statistics calculator implemented in three differ
 - **C**: GCC compiler
 - **OCaml**: OCaml compiler
 - **Python**: Python 3.x
-
-## License
-
-This project is licensed under the MIT License. 
